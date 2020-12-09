@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e1234379-9184-4a09-80d8-08dc3cb1d150/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/TMmvcTommaso",
+    "appService.deploySubpath": "publish"
+}
